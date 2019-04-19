@@ -1,5 +1,0 @@
-hello 
-hello again "added second line in file2.txt from develop"  
-this is a new commit...
-aaa
-xxxx
